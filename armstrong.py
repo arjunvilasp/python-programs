@@ -12,9 +12,9 @@ while temp > 0:
     sum += digit ** 3
     temp //=10
 if num == sum:
-    print(num,"is amstrong")
+    print(num,"is armstrong")
 else:
-    print(num,"is not amstrong")
+    print(num,"is not armstrong")
 
 
 # In[ ]:
